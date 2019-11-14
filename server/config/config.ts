@@ -1,0 +1,1 @@
+export const mongoURL:string="mongodb://localhost:27017/ThingsForDo"
